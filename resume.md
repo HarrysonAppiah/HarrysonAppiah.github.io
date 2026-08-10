@@ -37,7 +37,7 @@ Innovative Materials and Chemical Scientist with extensive hands-on experience i
 * Develop hands-on experience with electronic manufacturing processes, quality control, troubleshooting, and continuous improvement in a high-reliability manufacturing environment.
 
 ### Graduate Researcher & Teaching Assistant – University of Idaho
-*Present*
+*2022-2026*
 
 - Designed and optimized wet-chemical fractionation processes to separate municipal solid waste into polymeric and biogenic streams, executing up to 5 experimental batches per week 
 - Developed biodegradable polymer composites and converted them into FDM 3D printing filaments, taking materials from bench-scale formulation through functional filament production 
