@@ -25,6 +25,17 @@ Innovative Materials and Chemical Scientist with extensive hands-on experience i
 
 ## Professional Experience
 
+### Schweitzer Engineering Laboratories (SEL) — Pullman, WA
+
+**Electronic Manufacturing Technician** | August 2026 – Present
+
+* Assemble and test electronic devices used in critical power-system protection, monitoring, and control applications.
+* Perform precision mechanical and electronic assembly in accordance with documented work instructions, quality requirements, and manufacturing procedures.
+* Apply soldering, inspection, component handling, and assembly techniques while maintaining high standards for product quality and reliability.
+* Read and follow technical documentation, drawings, and process instructions to ensure accurate and repeatable manufacturing.
+* Collaborate with manufacturing and engineering teams to identify process issues, improve workflow, and support efficient production.
+* Develop hands-on experience with electronic manufacturing processes, quality control, troubleshooting, and continuous improvement in a high-reliability manufacturing environment.
+
 ### Graduate Researcher & Teaching Assistant – University of Idaho
 *Present*
 
