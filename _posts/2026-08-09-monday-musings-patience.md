@@ -14,6 +14,7 @@ Damian “Jr. Gong” Marley and Nas's **“Patience”** is one of those songs 
 The song is more than music. It feels like a critique of a society that has somehow become very good at solving problems that do not matter while ignoring the ones sitting right in front of us.
 
 One line that has always stood out to me is:
+
 <!--more-->
 
 > “Some of the smartest dummies can't read the language of Egyptian mummies.”
