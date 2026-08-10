@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Research Updates"
+title: "Beyond the Noise"
 permalink: /blog/
 ---
 
