@@ -35,19 +35,6 @@ And young people are entering adulthood carrying enormous amounts of debt while 
 
 So I sometimes wonder: **What exactly are we progressing toward?**
 
-We can plant a flag on the moon, but can we make sure a child has enough food to eat?
-
-We can build increasingly sophisticated technologies, but can we build a society where an ordinary person working an honest job can afford a decent place to live?
-
-We can spend billions researching what is beyond our planet, but why does providing basic healthcare remain such a difficult problem?
-
-These aren't arguments against science, technology, exploration, or progress. Quite the opposite.
-
-The ability to explore the universe is one of humanity's greatest achievements.
-
-But progress should not only be measured by how far we can go.
-
-It should also be measured by **how many people we take with us.**
 
 ## What Do We Choose to Care About?
 
