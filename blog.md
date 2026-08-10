@@ -6,7 +6,8 @@ permalink: /blog/
 
 <h2>Research Updates</h2>
 <p style="max-width: 700px;">
-Brief communications on ongoing research, experimental insights, and applied developments in biomaterial valorization, biochar engineering, sustainable materials, and general science updates.
+A space for thinking out loud about society, culture, and the things that often go unnoticed. Through songs, poems, memes, stories, and everyday observations, I explore the contradictions, frustrations, and absurdities of modern life—and the questions they leave us asking.
+
 </p>
 
 <hr>
