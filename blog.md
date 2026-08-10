@@ -6,7 +6,7 @@ permalink: /blog/
 
 <h2>Research Updates</h2>
 <p style="max-width: 700px;">
-A space for thinking out loud about society, culture, and the things that often go unnoticed. Through songs, poems, memes, stories, and everyday observations, I explore the contradictions, frustrations, and absurdities of modern life—and the questions they leave us asking.
+A space for thinking out loud about society, culture, and the things that often go unnoticed. Through songs, poems, memes, stories, and everyday observations, I explore the contradictions, frustrations, and absurdities of modern life and the questions they leave us asking.
 
 </p>
 
