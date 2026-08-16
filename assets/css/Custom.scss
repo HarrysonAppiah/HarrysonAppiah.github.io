@@ -79,3 +79,28 @@ code, pre {
 body {
   background: linear-gradient(to bottom, #ffffff, #f8fafc);
 }
+
+
+
+/* =========================================
+   Monday Musings Image Style
+   ========================================= */
+
+.monday-musings img {
+  display: block;
+  width: min(100%, 700px);
+  height: 400px;
+  object-fit: cover;
+  margin: 2rem auto;
+  border-radius: 10px;
+}
+
+/* Mobile adjustment */
+@media screen and (max-width: 600px) {
+  .monday-musings img {
+    width: 100%;
+    height: 280px;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+  }
+}
