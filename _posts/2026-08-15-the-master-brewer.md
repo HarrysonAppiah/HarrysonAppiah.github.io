@@ -3,7 +3,7 @@ layout: post
 title: "Monday Musings: The Master Brewer"
 date: 2026-08-15
 categories: [Monday Musings]
-image: /assets/images/monday-musings/master-brewer.jpg
+image: /assets/images/monday-musings/James-Baldwin-master-brewer.jpg
 ---
 
 There is a distillery in our brains.
