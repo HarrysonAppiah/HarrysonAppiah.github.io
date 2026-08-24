@@ -12,6 +12,7 @@ There is something strange about the world we have built: we create problems, al
 Education is a good example. We tell people that knowledge is the path to opportunity, then make that knowledge increasingly expensive. As the cost of education rises, students take on more debt, institutions face pressure to operate like businesses, and education can slowly shift from being a public good to becoming a product. When access to knowledge depends heavily on the ability to pay for it, quality eventually becomes a question of who can afford it.
 
 Housing follows a similar pattern. A home is supposed to provide stability, yet for many people it has become one of the largest financial burdens of their lives. The same is happening with food. We produce enormous quantities of it, yet healthy and nutritious choices can be increasingly expensive while cheaper options often come with hidden costs to our health.
+<!--more-->
 
 Then there is medicine. We have developed extraordinary ways to diagnose and treat disease, but access to those solutions can come at extraordinary prices. We spend more treating the consequences of poor health while the conditions that contribute to that poor health—stress, pollution, poor nutrition, unsafe water, inadequate housing, and limited access to preventive care—remain deeply embedded in society.
 
