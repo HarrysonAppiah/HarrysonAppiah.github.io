@@ -123,5 +123,28 @@ article img {
     height: 280px;
     margin: 1.5rem auto;
     border-radius: 8px;
+
+
+/* =========================
+   ABOUT ME TEXT FIX
+   ========================= */
+
+.about-wrapper {
+  color: #1a1a1a !important;
+}
+
+.about-wrapper p,
+.about-wrapper li,
+.about-wrapper span {
+  color: #1a1a1a !important;
+}
+
+.about-wrapper h1,
+.about-wrapper h2,
+.about-wrapper h3,
+.about-wrapper h4 {
+  color: #0f172a !important;
+}
+     
   }
 }
