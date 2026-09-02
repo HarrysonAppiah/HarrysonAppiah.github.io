@@ -11,9 +11,7 @@ permalink: /publications/
   entries:
   ### 2026
 
-**Marquez, K. P., Yusuf, S. B., Appiah, H., & Tongco, J. V. (2026).** Engineering and Development of High-Entropy Alloys. *Multi-scale Mechanics of High Entropy Alloys*, 1–23. Springer Nature Singapore.
 
-**Appiah, H., Park, S. H., & Tongco, J. V. (2026).** Advancements in Green Pretreatment, Thermochemical Conversion, and By-Product Valorization of Lignocellulosic Biomass for Energy Applications. *C*, 12(3), 64. MDPI.
 
     - Plastic Recovery from Municipal Solid Waste by Solvent Extraction
       authors: "Appiah, H., Bar-Ziv, E., Klinger, J., & McDonald, A. G."
