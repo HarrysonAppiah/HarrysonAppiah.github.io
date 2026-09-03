@@ -146,6 +146,31 @@ article img {
 .about-wrapper h4 {
   color: #0f172a !important;
 }
+
+
+/* =========================
+   ABOUT ME — LIGHT MODE FIX
+========================= */
+
+body .about-wrapper {
+  color: #222 !important;
+}
+
+body .about-wrapper p,
+body .about-wrapper span,
+body .about-wrapper li,
+body .about-wrapper div {
+  color: #222 !important;
+}
+
+body .about-wrapper h1,
+body .about-wrapper h2,
+body .about-wrapper h3,
+body .about-wrapper h4 {
+  color: #0f172a !important;
+}
+
+     
      
   }
 }
