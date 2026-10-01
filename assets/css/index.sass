@@ -1,6 +1,5 @@
 ---
 ---
-
 @import utils, basic, layout, classes, rouge_github
 
 body
@@ -58,11 +57,13 @@ article
   from
     opacity: 0
     transform: translateY(8px)
+  to
+    opacity: 1
+    transform: translateY(0)
 
-    /* =========================
+/* =========================
    ABOUT ME TEXT VISIBILITY
 ========================= */
-
 .about-wrapper
   color: #222 !important
 
@@ -74,7 +75,3 @@ article
 .about-wrapper h3,
 .about-wrapper h4
   color: #0f172a !important
-
-  to
-    opacity: 1
-    transform: translateY(0)
