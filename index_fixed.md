@@ -57,8 +57,7 @@ title: Home
 .about-text h1 {
   margin: 0 0 0.15rem;
   font-size: 1.6rem;
-  color: #ffffff;
-}
+  color: #ffffff;}
 
 .about-role {
   font-size: 0.9rem;
