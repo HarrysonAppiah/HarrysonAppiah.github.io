@@ -123,7 +123,7 @@ permalink: /lab/
   margin: 0;
   font-size: 0.95rem;
   line-height: 1.55;
-  color: #444;
+  color: #000000;          /* Black */
 }
 
 @media (max-width: 700px) {
