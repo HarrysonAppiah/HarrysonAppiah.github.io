@@ -38,10 +38,10 @@ title: Home
 <style>
 .about-wrapper {
   display: flex;
-  gap: 2.5rem;
+  gap: 2.8rem;
   align-items: flex-start;
-  max-width: 900px;
-  margin: 2rem auto;
+  max-width: 920px;
+  margin: 2.5rem auto 3rem;
 }
 
 .about-photo {
@@ -49,50 +49,52 @@ title: Home
 }
 
 .about-photo img {
-  width: 280px;
-  height: 280px;
+  width: 300px;
+  height: 300px;
   object-fit: cover;
-  border-radius: 12px;
+  border-radius: 14px;
   display: block;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.35);
 }
 
 .about-text h1 {
-  margin: 0 0 0.25rem;
-  font-size: 1.8rem;
-  color: #111;
+  margin: 0 0 0.3rem;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #ffffff;
 }
 
 .about-role {
   font-size: 0.95rem;
-  color: #555;
-  margin: 0 0 1.25rem;
+  color: #a0aec0;
+  margin: 0 0 1.4rem;
 }
 
 .about-text p {
-  font-size: 1rem;
-  line-height: 1.7;
-  color: #333;
-  margin-bottom: 1rem;
+  font-size: 1.02rem;
+  line-height: 1.75;
+  color: #e2e8f0;
+  margin-bottom: 1.1rem;
 }
 
 .about-links {
-  margin-top: 1.5rem;
+  margin-top: 1.8rem;
   display: flex;
-  gap: 1.25rem;
+  gap: 1.4rem;
 }
 
 .about-links a {
   font-size: 0.95rem;
   font-weight: 600;
   text-decoration: none;
-  color: #1a56db;
+  color: #63b3ed;
   border-bottom: 2px solid transparent;
   padding-bottom: 2px;
+  transition: border-color 0.2s;
 }
 
 .about-links a:hover {
-  border-bottom-color: #1a56db;
+  border-bottom-color: #63b3ed;
 }
 
 @media (max-width: 700px) {
@@ -100,11 +102,12 @@ title: Home
     flex-direction: column;
     align-items: center;
     text-align: center;
+    gap: 1.8rem;
   }
 
   .about-photo img {
-    width: 220px;
-    height: 220px;
+    width: 240px;
+    height: 240px;
   }
 }
 </style>
