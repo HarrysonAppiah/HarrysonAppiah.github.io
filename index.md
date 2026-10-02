@@ -5,7 +5,7 @@ title: Home
 
 <div class="about-wrapper">
   <div class="about-photo">
-    <img src="{{ '/assets/profile.jpeg' | relative_url }}" alt="Harrison Appiah" />
+    <img src="{{ '/assets/rofile.jpeg' | relative_url }}" alt="Harrison Appiah" />
   </div>
 
   <div class="about-text">
