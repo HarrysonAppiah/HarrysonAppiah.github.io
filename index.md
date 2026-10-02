@@ -5,15 +5,15 @@ title: Home
 
 <div class="about-wrapper">
   <div class="about-photo">
-    <img src="{{ '/assets/rofile.jpeg' | relative_url }}" alt="Harrison Appiah" />
+    <img src="{{ '/assets/profile.jpeg' | relative_url }}" alt="Harrison Appiah" />
   </div>
 
   <div class="about-text">
     <h1>Harrison Appiah</h1>
-    <p class="about-role">PhD &mdash; University of Idaho | Material & Environmental Science</p>
+    <p class="about-role">PhD — University of Idaho | Material & Environmental Science</p>
 
     <p>
-      I am a researcher with a deep interest in biomaterials science and  waste valorization — and a technical foundation that spans green chemistry, analytical chemistry, wet chemistry, printed circuit board chemistry, and semiconductor fabrication. My work sits at the intersection of biomass valorization and sustainable materials, exploring how agricultural residues, municipal solid waste, and end-of-life plastics can be transformed into useful fuels, chemicals, and packaging materials.
+      I am a researcher with a deep interest in biomaterials science and waste valorization — and a technical foundation that spans green chemistry, analytical chemistry, wet chemistry, printed circuit board chemistry, and semiconductor fabrication. My work sits at the intersection of biomass valorization and sustainable materials, exploring how agricultural residues, municipal solid waste, and end-of-life plastics can be transformed into useful fuels, chemicals, and packaging materials.
     </p>
 
     <p>
@@ -21,7 +21,7 @@ title: Home
     </p>
 
     <p>
-      What drives me is the global urgency of waste. Millions of tons of biomass, plastics, and municipal solid waste are generated every year with little recovery. My background in high-precision chemical systems — from semiconductor-grade processes to PCB fabrication chemistry — gives me a distinct perspective on how tightly controlled industrial chemistries can be reimagined and redirected toward sustainable ends. I find it deeply motivating to work on systems that close those loops, recovering materials, generating energy, and reducing environmental burden all at once..
+      What drives me is the global urgency of waste. Millions of tons of biomass, plastics, and municipal solid waste are generated every year with little recovery. My background in high-precision chemical systems — from semiconductor-grade processes to PCB fabrication chemistry — gives me a distinct perspective on how tightly controlled industrial chemistries can be reimagined and redirected toward sustainable ends. I find it deeply motivating to work on systems that close those loops, recovering materials, generating energy, and reducing environmental burden all at once.
     </p>
 
     <p>
@@ -40,58 +40,62 @@ title: Home
   display: flex;
   gap: 2.5rem;
   align-items: flex-start;
-  max-width: 820px;
-  margin-top: 1.5rem;
+  max-width: 900px;
+  margin: 2rem auto;
+}
+
+.about-photo {
+  flex-shrink: 0;
 }
 
 .about-photo img {
-  width: 360px;
-  height: 360px;
+  width: 280px;
+  height: 280px;
   object-fit: cover;
   border-radius: 12px;
   display: block;
-  flex-shrink: 0;
-  border: 3px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
 .about-text h1 {
-  margin: 0 0 0.15rem;
-  font-size: 1.6rem;
-  color: #ffffff;}
+  margin: 0 0 0.25rem;
+  font-size: 1.8rem;
+  color: #111;
+}
 
 .about-role {
-  font-size: 0.9rem;
-  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.95rem;
+  color: #555;
   margin: 0 0 1.25rem;
 }
 
 .about-text p {
-  font-size: 0.975rem;
-  line-height: 1.8;
-  color: rgba(255, 255, 255, 0.9);
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #333;
   margin-bottom: 1rem;
 }
 
 .about-links {
   margin-top: 1.5rem;
   display: flex;
-  gap: 1rem;
+  gap: 1.25rem;
 }
 
 .about-links a {
-  font-size: 0.875rem;
+  font-size: 0.95rem;
   font-weight: 600;
   text-decoration: none;
-  color: #ffffff;
-  border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+  color: #1a56db;
+  border-bottom: 2px solid transparent;
   padding-bottom: 2px;
 }
 
 .about-links a:hover {
-  border-bottom-color: #ffffff;
+  border-bottom-color: #1a56db;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .about-wrapper {
     flex-direction: column;
     align-items: center;
@@ -99,23 +103,8 @@ title: Home
   }
 
   .about-photo img {
-    width: min(100%, 360px);
-    height: auto;
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
-    border-radius: 12px;
-    display: block;
-    border: 3px solid rgba(128, 128, 128, 0.3);
+    width: 220px;
+    height: 220px;
   }
 }
 </style>
-
-
-
-  <div style="margin-top: 15px;">
-    {% for item in site.external %}
-      <a href="{{ item.url }}" style="margin: 0 10px; text-decoration: none;">
-        {{ item.title }}
-      </a>
-    {% endfor %}
-  </div>
