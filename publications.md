@@ -4,110 +4,34 @@ title: "Publications"
 permalink: /publications/
 ---
 
+## SELECTED PUBLICATIONS & RESEARCH OUTPUTS
 
-## 📝 Journal Articles
+1. Appiah, H., Asamoah, P., & McDonald, A. (2026). Waste-to-energy technologies and their role in municipal solid waste management. *Recycling*, 11(3), 56.
 
-- year: 2026
-  entries:
-  ### 2026
+2. Appiah, H., Bar-Ziv, E., Klinger, J., & McDonald, A. (2026). Plastic recovery from municipal solid waste by solvent extraction. *ACS Sustainable Resource Management*, 3(2), 524–533.
 
+3. Appiah, H., Bar-Ziv, E., Klinger, J., & McDonald, A. (2025). Exploring new applications of municipal solid waste. *Sustainability*, 17(8), 3719.
 
+4. Ewurum, N., Yusuf, S., Appiah, H., & Tongco, J. V. (2025). Smart food packaging and solutions. In *Polymers and Composite Materials for Packaging* (pp. 273–296). Springer Nature.
 
-    - Plastic Recovery from Municipal Solid Waste by Solvent Extraction
-      authors: "Appiah, H., Bar-Ziv, E., Klinger, J., & McDonald, A. G."
-      type: journal
-      venue: "ACS Sustainable Resource Management"
-      volume: 3 issue: 2 pages: "524–533" publisher: "American Chemical Society"
-      https://pubs.acs.org/doi/10.1021/acssusresmgt.5c00525
+5. Appiah, H., Ewurum, N., Yusuf, S., & Tongco, J. (2025). Smart food packaging and solutions. In *Polymers and Composite Materials for Packaging* (pp. 395–413). Springer Nature.
 
-    - Waste-to-Energy Technologies and Their Role in Municipal Solid Waste Management
-      authors: "Appiah, H., Asamoah, P., & McDonald, A. G."
-      type: journal
-      venue: "Recycling"
-      volume: 11
-      issue: 3
-      pages: "56"
-      issn: "2313-4321"
-      publisher: "MDPI"
+6. Yusuf, S., Ewurum, N., Appiah, H., & Tongco, J. (2025). Industrial hemp as precursor for sustainable bioproducts: Recent trends and prospects. *Fibers*, 13(11), 155.
 
-    - Upcycling Municipal Solid Waste to Polymers and Bioethanol
-      authors: "Huber, G., Ra, E., Cortes-Pena, Y., Rivera-Kohr, D., Callen, L., Zhou, P., Yu, J., Granger, C., Saha, N., Klinger, J., et al."
-      type: journal
-      year: 2026
+7. Appiah, H., McDonald, A. G., Oluwatosin, O., & Dawson-Andoh, B. (2025). Deep eutectic solvents for xylan-based furfural synthesis. *ACS Sustainable Resource Management*, 2(3), 536–545. https://doi.org/10.1021/acssusresmgt.4c00514
 
-- year: 2025
-  entries:
-    - Evaluation of Deep Eutectic Solvents for Xylan-Based Furfural Synthesis
-      authors: "Appiah, H., Dawson-Andoh, B., Oginni, O., & McDonald, A. G."
-      type: journal
-      venue: "ACS Sustainable Resource Management"
-      volume: 2
-      issue: 3
-      pages: "536–545"
-      issn: "2837-1445"
-      publisher: "American Chemical Society"
+8. Struhs, E., Mirkouei, A., Appiah, H., & McDonald, A. (2024). Examination of in situ and ex situ catalytic fast pyrolysis and liquid fractionation utilizing a free-fall reactor. *Frontiers in Industrial Microbiology*, 2, 1426067.
 
-    - Exploring New Applications of Municipal Solid Waste
-      authors: "Appiah, H., Bar-Ziv, E., Klinger, J. L., & McDonald, A. G."
-      type: journal
-      venue: "Sustainability"
-      volume: 17
-      issue: 8
-      pages: "3719"
-      issn: "2071-1050"
-      publisher: "MDPI"
+9. Appiah, H. (2021). *Valorization of xylan in agroforestry waste streams* (Master’s thesis). West Virginia University.
 
-    - Recycled Plastics in Smart Packaging Applications
-      authors: "Appiah, H., Ewurum, N., Yusuf, S. B., & Tongco, J. V."
-      type: book_chapter
-      venue: "Polymers and Composite Materials for Packaging: Smart Food Packaging and Solutions"
-      pages: "395–413"
-      publisher: "Springer Nature"
+10. Sánchez-Rivera, K., Granger, C., Appiah, H., Nelson, K., Grey, S., Sun, D., Estela-García, J., Chen, E., Xu, Z., & Osswald, T. (2024). Cast film production with polyethylene recycled from a post-industrial printed multilayer film by solvent-targeted recovery and precipitation. *ACS Materials Letters*, 6(9), 4042–4050.
 
-    - Lignin-Based Biocomposites for Smart and Sustainable Food Packaging
-      authors: "Ewurum, N., Yusuf, S. B., Appiah, H., & Tongco, J. V."
-      type: book_chapter
-      venue: "Polymers and Composite Materials for Packaging: Smart Food Packaging and Solutions"
-      pages: "273–296"
-      publisher: "Springer Nature"
+11. Korang, J., Obiri, B., Appiah, H., & Awuku, S. (2015). Calorific values and gravimetric yield of six wood fuel species in the forest transition zone of Ghana. *Ghana Journal of Forestry*, 31, 51–61.
 
-    - Industrial Hemp as Precursor for Sustainable Bioproducts: Recent Trends and Prospects
-      authors: "Yusuf, S. B., Ewurum, N., Appiah, H., & Tongco, J. V."
-      type: journal
-      venue: "Fibers"
-      volume: 13
-      issue: 11
-      pages: "155"
-      issn: "2079-6439"
-      publisher: "MDPI"
+12. Appiah, H., Tongco, J. V., Yusuf, S. B., & Marquz, K. P. (2026). Engineering and development of high-entropy alloys. In S. Sandeep & V. Akarsh (Eds.), *Multi-scale mechanics of high entropy alloys* (pp. 1–23). Springer Nature.
 
-- year: 2024
-  entries:
-    - Examination of in situ and ex situ Catalytic Fast Pyrolysis and Liquid Fractionation Utilizing a Free-Fall Reactor
-      authors: "Struhs, E., Mirkouei, A., Appiah, H., & McDonald, A. G."
-      type: journal
-      venue: "Frontiers in Industrial Microbiology"
-      volume: 2
-      pages: "1426067"
-      issn: "2813-7809"
-      publisher: "Frontiers Media SA"
+13. Appiah, H., Park, S. H., & Tongco, J. V. (2026). Advancements in green pretreatment, thermochemical conversion, and by-product valorization of lignocellulosic biomass for energy applications. *Journal of Carbon Research*.
 
-    - Cast Film Production with Polyethylene Recycled from a Post-Industrial Printed Multilayer Film by Solvent-Targeted Recovery and Precipitation
-      authors: "Sánchez-Rivera, K. L., Granger, C., Appiah, H., Nelson, K., Grey, S., Sun, D. J., Estela-García, J. E., Chen, E., Xu, Z., & Osswald, T. A."
-      type: journal
-      venue: "ACS Materials Letters"
-      volume: 6
-      issue: 9
-      pages: "4042–4050"
-      issn: "2639-4979"
-      publisher: "American Chemical Society"
+14. Appiah, H., Dawson-Andoh, B., Oginni, O., & McDonald, A. (2025). Evaluation of deep eutectic solvents for xylan-based furfural synthesis. *ACS Sustainable Resource Management*, 2(3), 536–545.
 
-- year: 2021
-  entries:
-    - Valorization of Xylan in Agroforestry Waste Streams
-      authors: "Appiah, H."
-      type: thesis
-      publisher: "West Virginia University"
-
-
-
+15. Huber, G., Ra, E., Cortes-Pena, Y., Rivera-Kohr, D., Callen, L., Zhou, P., Yu, J., … Appiah, H., Granger, C., Saha, N., & Klinger, J. (2026). Upcycling municipal solid waste to polymers and bioethanol.
