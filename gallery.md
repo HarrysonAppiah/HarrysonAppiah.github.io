@@ -75,7 +75,7 @@ permalink: /lab/
   max-width: 780px;
   margin: 0 auto 2.5rem;
   text-align: center;
-  color: #333;
+  color: #000000;          /* Black */
   font-size: 1.05rem;
   line-height: 1.6;
 }
