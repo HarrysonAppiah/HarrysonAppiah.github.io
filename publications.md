@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## SELECTED PUBLICATIONS & RESEARCH OUTPUTS
+## SELECTED PUBLICATIONS
 
 1. Appiah, H., Asamoah, P., & McDonald, A. (2026). Waste-to-energy technologies and their role in municipal solid waste management. *Recycling*, 11(3), 56.
 
