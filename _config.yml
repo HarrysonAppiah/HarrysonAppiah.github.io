@@ -22,6 +22,7 @@ navigation:
   - {url: "/research/", title: "Research"}
   - {url: "/publications/", title: "Publications"}
   - {url: "/resume/", title: "Resume"}
+  - {url: "/lab/", title: "Lab Gallery"}
   - { title: Blog, url: "/blog/" }
   
  
