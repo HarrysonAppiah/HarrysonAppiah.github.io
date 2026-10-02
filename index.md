@@ -35,7 +35,7 @@ title: Home
 .about-wrapper {
   max-width: 900px;
   margin: 2rem auto 3rem;
-  overflow: hidden; /* clears the float */
+  overflow: hidden;
 }
 
 .about-photo {
@@ -45,33 +45,33 @@ title: Home
   object-fit: cover;
   border-radius: 12px;
   margin: 0 1.8rem 1rem 0;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 
 .about-wrapper h1 {
-  margin: 0 0 0.2rem;
-  font-size: 1.85rem;
+  margin: 0 0 0.25rem;
+  font-size: 1.9rem;
   font-weight: 700;
-  color: #ffffff;
+  color: #111111;           /* Dark black for strong contrast */
   line-height: 1.25;
 }
 
 .about-role {
   font-size: 0.95rem;
-  color: #a0aec0;
+  color: #444444;           /* Dark gray */
   margin: 0 0 1.2rem;
 }
 
 .about-wrapper p {
   font-size: 1.05rem;
   line-height: 1.7;
-  color: #e2e8f0;
+  color: #222222;           /* Almost black – very readable */
   margin-bottom: 1.1rem;
 }
 
 .about-links {
   margin-top: 1.6rem;
-  clear: both; /* starts below the image */
+  clear: both;
   display: flex;
   gap: 1.4rem;
 }
@@ -80,13 +80,13 @@ title: Home
   font-size: 0.95rem;
   font-weight: 600;
   text-decoration: none;
-  color: #63b3ed;
+  color: #1a56db;
   border-bottom: 2px solid transparent;
   padding-bottom: 2px;
 }
 
 .about-links a:hover {
-  border-bottom-color: #63b3ed;
+  border-bottom-color: #1a56db;
 }
 
 @media (max-width: 650px) {
