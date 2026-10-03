@@ -62,11 +62,26 @@ title: Home
   margin: 0 0 1.2rem;
 }
 
+.about-wrapper h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.9rem;
+  font-weight: 700;
+  color: #111111;          /* Dark black */
+  line-height: 1.25;
+}
+
+.about-role {
+  font-size: 0.95rem;
+  color: #333333;          /* Dark gray */
+  margin: 0 0 1.2rem;
+}
+
 .about-wrapper p {
   font-size: 1.05rem;
   line-height: 1.7;
-  color: #e2e8f0;
+  color: #222222;          /* Almost black – readable everywhere */
   margin-bottom: 1.1rem;
+}
 }
 
 .about-links {
