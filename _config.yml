@@ -23,6 +23,7 @@ navigation:
   - {url: "/publications/", title: "Publications"}
   - {url: "/resume/", title: "Resume"}
   - {url: "/lab/", title: "Lab Gallery"}
+  - {url: "/awards/", title: "Awards"}
   - { title: Blog, url: "/blog/" }
   
  
