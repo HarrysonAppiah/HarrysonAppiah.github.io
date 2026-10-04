@@ -52,7 +52,7 @@ permalink: /lab/
 
   <!-- Image 5 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/lab5.jpg' | relative_url }}" alt="Polymer Processing" onclick="openLightbox(this)">
+    <img src="{{ '/assets/lab/h3.jpeg' | relative_url }}" alt="Polymer Processing" onclick="openLightbox(this)">
     <div class="lab-caption">
       <h3>Polymer Processing</h3>
       <p>Melt extrusion and cast-film processing of waste-derived and bio-based polymer systems.</p>
