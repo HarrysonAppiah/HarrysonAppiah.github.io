@@ -28,7 +28,7 @@ permalink: /lab/
    <img src="{{ '/assets/lab/h2.jpeg' | relative_url }}" alt="Who said lab work can't be fun ?">
     <div class="lab-caption">
       <h3>Biomass Pyrolysis Setup</h3>
-      <p>Experimental setup for catalytic fast pyrolysis and biochar production from lignocellulosic feedstocks.</p>
+      <p> Who said lab work can't be fun? </p>
     </div>
   </div>
 
