@@ -34,10 +34,10 @@ permalink: /lab/
 
   <!-- Image 3 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/lab3.jpg' | relative_url }}" alt="Deep Eutectic Solvent Synthesis" onclick="openLightbox(this)">
+    <img src="{{ '/assets/lab/h3.jpg' | relative_url }}" alt="some reflections" onclick="openLightbox(this)">
     <div class="lab-caption">
-      <h3>Deep Eutectic Solvent Synthesis</h3>
-      <p>Preparation and evaluation of deep eutectic solvents for xylan-to-furfural conversion.</p>
+      <h3>The final caption</h3>
+      <p>My research group.</p>
     </div>
   </div>
 
