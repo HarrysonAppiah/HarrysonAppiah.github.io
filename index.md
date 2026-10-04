@@ -122,3 +122,73 @@ title: Home
   }
 }
 </style>
+
+<button id="theme-toggle" aria-label="Toggle dark mode" style="
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 1000;
+  background: #1F4E79;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+">
+  🌙
+</button>
+
+<script>
+  const toggle = document.getElementById('theme-toggle');
+  const body = document.body;
+
+  // Check saved preference
+  if (localStorage.getItem('theme') === 'dark') {
+    body.classList.add('dark-mode');
+    toggle.textContent = '☀️';
+  }
+
+  toggle.addEventListener('click', () => {
+    body.classList.toggle('dark-mode');
+    
+    if (body.classList.contains('dark-mode')) {
+      localStorage.setItem('theme', 'dark');
+      toggle.textContent = '☀️';
+    } else {
+      localStorage.setItem('theme', 'light');
+      toggle.textContent = '🌙';
+    }
+  });
+</script>
+
+<style>
+  /* Dark mode styles */
+  body.dark-mode {
+    background-color: #1a1a1a !important;
+    color: #e2e8f0 !important;
+  }
+
+  body.dark-mode .about-wrapper h1 {
+    color: #ffffff !important;
+  }
+
+  body.dark-mode .about-role {
+    color: #a0aec0 !important;
+  }
+
+  body.dark-mode .about-wrapper p {
+    color: #e2e8f0 !important;
+  }
+
+  body.dark-mode .about-links a {
+    color: #63b3ed !important;
+  }
+
+  body.dark-mode .page-content,
+  body.dark-mode .container {
+    background-color: #1a1a1a !important;
+  }
+</style>
