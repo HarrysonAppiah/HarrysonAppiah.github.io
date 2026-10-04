@@ -34,7 +34,7 @@ permalink: /lab/
 
   <!-- Image 3 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/lab3.jpg' | relative_url }}" alt="Description of image 3">
+   <img src="{{ '/assets/lab/h3.jpeg' | relative_url }}" alt="Solvent-based Plastic Recovery">
     <div class="lab-caption">
       <h3>Deep Eutectic Solvent Synthesis</h3>
       <p>Preparation and evaluation of deep eutectic solvents for xylan-to-furfural conversion.</p>
