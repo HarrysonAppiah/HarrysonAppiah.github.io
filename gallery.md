@@ -19,15 +19,15 @@ permalink: /lab/
     <img src="{{ '/assets/lab/h1.jpeg' | relative_url }}" alt="Solvent-based Plastic Recovery" onclick="openLightbox(this)">
     <div class="lab-caption">
       <h3>Solvent-based Plastic Recovery</h3>
-      <p>Processing municipal solid waste streams to extract and recover post-consumer plastics using solvent-targeted methods.</p>
+      <p> Processing municipal solid waste streams to extract and recover post-consumer plastics using solvent-targeted methods.</p>
     </div>
   </div>
 
   <!-- Image 2 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/h2.jpg' | relative_url }}" alt="Biomass Pyrolysis Setup" onclick="openLightbox(this)">
+    <img src="{{ '/assets/lab/h2.jpeg' | relative_url }}" alt="Biomass Pyrolysis Setup" onclick="openLightbox(this)">
     <div class="lab-caption">
-      <h3>Biomass Pyrolysis Setup</h3>
+      <h3> some fun time</h3>
       <p> Who said lab work can't be fun? </p>
     </div>
   </div>
