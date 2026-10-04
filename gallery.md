@@ -43,10 +43,10 @@ permalink: /lab/
 
   <!-- Image 4 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/lab4.jpg' | relative_url }}" alt="Materials Characterization" onclick="openLightbox(this)">
+    <img src="{{ '/assets/lab/h4.jpeg' | relative_url }}" alt="Materials Characterization" onclick="openLightbox(this)">
     <div class="lab-caption">
       <h3>Materials Characterization</h3>
-      <p>Using thermal analysis (DSC/TGA), spectroscopy, and microscopy to evaluate structure–property relationships of recovered polymers and biocomposites.</p>
+      <p>Using GC-MS to analyze plasticizers in extracted plastic.</p>
     </div>
   </div>
 
