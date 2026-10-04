@@ -36,3 +36,82 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+Added this today 10/3/2026
+
+<style>
+  /* Theme Toggle Button */
+  #theme-toggle {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 9999;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: none;
+    background: #1F4E79;
+    color: white;
+    font-size: 1.3rem;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.25);
+    transition: background 0.2s, transform 0.2s;
+  }
+
+  #theme-toggle:hover {
+    background: #163a5f;
+    transform: scale(1.08);
+  }
+
+  /* ========== DARK MODE ========== */
+  html.dark-mode body,
+  html.dark-mode {
+    background-color: #121212 !important;
+    color: #e2e8f0 !important;
+  }
+
+  html.dark-mode .page-content,
+  html.dark-mode .container,
+  html.dark-mode main {
+    background-color: #121212 !important;
+    color: #e2e8f0 !important;
+  }
+
+  /* Homepage text */
+  html.dark-mode .about-wrapper h1 {
+    color: #ffffff !important;
+  }
+  html.dark-mode .about-role {
+    color: #a0aec0 !important;
+  }
+  html.dark-mode .about-wrapper p {
+    color: #e2e8f0 !important;
+  }
+  html.dark-mode .about-links a {
+    color: #63b3ed !important;
+  }
+
+  /* Lab Gallery */
+  html.dark-mode .lab-intro,
+  html.dark-mode .lab-caption h3,
+  html.dark-mode .lab-caption p {
+    color: #e2e8f0 !important;
+  }
+  html.dark-mode .lab-item {
+    background: #1e1e1e !important;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.4) !important;
+  }
+
+  /* General content */
+  html.dark-mode h1,
+  html.dark-mode h2,
+  html.dark-mode h3,
+  html.dark-mode p,
+  html.dark-mode li {
+    color: #e2e8f0 !important;
+  }
+
+  html.dark-mode a {
+    color: #63b3ed !important;
+  }
+</style>
