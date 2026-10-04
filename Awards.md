@@ -29,9 +29,7 @@ Awarded for research excellence in Environmental Science. The recognition highli
 
 - Affiliation: Renewable Materials Lab, University of Idaho  
 - Subject Area: Environmental Science  
-
-[View Award Profile →](https://innovatorawards.org/harrison-appiah-environmental-science-research-excellence-award-3284/)
-</div>
+<p><a href="https://innovatorawards.org/harrison-appiah-environmental-science-research-excellence-award-3284/">View Award Profile →</a></p>
 
 ---
 
@@ -43,8 +41,7 @@ Recognized in the category of Materials Characterization for research contributi
 
 - Category: Materials Characterization  
 
-[View Award Profile →](https://metallurgyaward.com/award-winners/?gv_id=&gv_search=harrison+appiah&mode=any#gv-view-2969-1)
-</div>
+<p><a href="https://metallurgyaward.com/award-winners/?gv_id=&gv_search=harrison+appiah&mode=any#gv-view-2969-1">View Award Profile →</a></p>
 
 ---
 
