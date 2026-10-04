@@ -4,7 +4,7 @@ title: "Awards & Honors"
 permalink: /Awards/
 ---
 
-# 🏆 Awards & Honors
+# 🏆 Honors
 
 A selection of academic and research recognitions received during my graduate studies and research career.
 
