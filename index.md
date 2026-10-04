@@ -35,7 +35,7 @@ title: Home
 .about-wrapper {
   max-width: 900px;
   margin: 2rem auto 3rem;
-  overflow: hidden; /* clears the float */
+  overflow: hidden;
 }
 
 .about-photo {
@@ -45,48 +45,33 @@ title: Home
   object-fit: cover;
   border-radius: 12px;
   margin: 0 1.8rem 1rem 0;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.3);
-}
-
-.about-wrapper h1 {
-  margin: 0 0 0.2rem;
-  font-size: 1.85rem;
-  font-weight: 700;
-  color: #ffffff;
-  line-height: 1.25;
-}
-
-.about-role {
-  font-size: 0.95rem;
-  color: #a0aec0;
-  margin: 0 0 1.2rem;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
 }
 
 .about-wrapper h1 {
   margin: 0 0 0.25rem;
   font-size: 1.9rem;
   font-weight: 700;
-  color: #111111;          /* Dark black */
+  color: #111111;
   line-height: 1.25;
 }
 
 .about-role {
   font-size: 0.95rem;
-  color: #333333;          /* Dark gray */
+  color: #333333;
   margin: 0 0 1.2rem;
 }
 
 .about-wrapper p {
   font-size: 1.05rem;
   line-height: 1.7;
-  color: #222222;          /* Almost black – readable everywhere */
+  color: #222222;
   margin-bottom: 1.1rem;
-}
 }
 
 .about-links {
   margin-top: 1.6rem;
-  clear: both; /* starts below the image */
+  clear: both;
   display: flex;
   gap: 1.4rem;
 }
@@ -95,13 +80,13 @@ title: Home
   font-size: 0.95rem;
   font-weight: 600;
   text-decoration: none;
-  color: #63b3ed;
+  color: #1a56db;
   border-bottom: 2px solid transparent;
   padding-bottom: 2px;
 }
 
 .about-links a:hover {
-  border-bottom-color: #63b3ed;
+  border-bottom-color: #1a56db;
 }
 
 @media (max-width: 650px) {
@@ -121,74 +106,4 @@ title: Home
     justify-content: center;
   }
 }
-</style>
-
-<button id="theme-toggle" aria-label="Toggle dark mode" style="
-  position: fixed;
-  bottom: 24px;
-  right: 24px;
-  z-index: 1000;
-  background: #1F4E79;
-  color: white;
-  border: none;
-  border-radius: 50%;
-  width: 48px;
-  height: 48px;
-  font-size: 1.3rem;
-  cursor: pointer;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-">
-  🌙
-</button>
-
-<script>
-  const toggle = document.getElementById('theme-toggle');
-  const body = document.body;
-
-  // Check saved preference
-  if (localStorage.getItem('theme') === 'dark') {
-    body.classList.add('dark-mode');
-    toggle.textContent = '☀️';
-  }
-
-  toggle.addEventListener('click', () => {
-    body.classList.toggle('dark-mode');
-    
-    if (body.classList.contains('dark-mode')) {
-      localStorage.setItem('theme', 'dark');
-      toggle.textContent = '☀️';
-    } else {
-      localStorage.setItem('theme', 'light');
-      toggle.textContent = '🌙';
-    }
-  });
-</script>
-
-<style>
-  /* Dark mode styles */
-  body.dark-mode {
-    background-color: #1a1a1a !important;
-    color: #e2e8f0 !important;
-  }
-
-  body.dark-mode .about-wrapper h1 {
-    color: #ffffff !important;
-  }
-
-  body.dark-mode .about-role {
-    color: #a0aec0 !important;
-  }
-
-  body.dark-mode .about-wrapper p {
-    color: #e2e8f0 !important;
-  }
-
-  body.dark-mode .about-links a {
-    color: #63b3ed !important;
-  }
-
-  body.dark-mode .page-content,
-  body.dark-mode .container {
-    background-color: #1a1a1a !important;
-  }
 </style>
