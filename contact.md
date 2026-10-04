@@ -1,5 +1,5 @@
 ---
-title: Nagendra Tanikella's contact details
+title: contact details
 layout: default
 type: contact
 permalink: /contact
@@ -9,7 +9,7 @@ permalink: /contact
 
 ## Contact
 
-[<i class="fa fa-envelope"></i> tani7947@vandals.uidaho.edu](mailto:tani7947@vandals.uidaho.edu)
+[<i class="fa fa-envelope"></i> Appiah.harrison@yahoo.com](mailto:Appiah.harrison@yahoo.com)
 
 ---
 
@@ -82,14 +82,9 @@ permalink: /contact
 
 [<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/Google_Scholar_logo.svg.png" alt="Google Scholar" class="inline-logo"> Google Scholar]({{ site.google_scholar_url }}){:target="_blank"}
 
-[<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/Linkedin.png" alt="LinkedIn" class="inline-logo"> LinkedIn](https://linkedin.com/in/{{ site.linkedin_username }}){:target="_blank"}
 
-[<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/GitHub.png" alt="GitHub" class="inline-logo"> GitHub](https://github.com/{{ site.github_username }}){:target="_blank"}
+[<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/ORCID.png" alt="ORCID" class="inline-logo"> ORCID]([https://orcid.org/0000-0003-1678-1932](https://orcid.org/0000-0002-1101-7225){:target="_blank"}
 
-[<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/wos.jpg" alt="Web of Science" class="inline-logo"> Web of Science](https://www.webofscience.com/wos/author/record/NZO-1270-2025){:target="_blank"}
-
-[<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/ORCID.png" alt="ORCID" class="inline-logo"> ORCID](https://orcid.org/0000-0003-1678-1932){:target="_blank"}
-
-[<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/Researchgate.jpeg" alt="ResearchGate" class="inline-logo"> ResearchGate](https://www.researchgate.net/profile/Nagendra-Tanikella){:target="_blank"}
+[<img src="{{site.url}}{{site.baseurl}}/docs/cv/Logos/Academia.jpeg" alt="Academia" class="inline-logo"> Academia](https://https://uidaho.academia.edu/HarrisonAppiah){:target="_blank"}
 
 </div>
