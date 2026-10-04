@@ -45,6 +45,10 @@ Research activities have been supported through collaboration with the **Idaho N
 
 
 
+### Additional Recognition
+
+Research activities have been supported through collaboration with the **Idaho National Laboratory** and joint work with researchers from **Michigan Technological University** and the **University of Wisconsin–Madison**.
+
 <style>
 .award-photo {
   float: left;
@@ -56,11 +60,14 @@ Research activities have been supported through collaboration with the **Idaho N
   box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
 
-/* Clear the float after each award section */
 .award-section::after {
   content: "";
   display: table;
   clear: both;
+}
+
+.award-section {
+  margin-bottom: 1.5rem;
 }
 
 @media (max-width: 600px) {
