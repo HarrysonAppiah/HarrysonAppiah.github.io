@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Awards & Honors"
-permalink: /awards/
+permalink: /Awards/
 ---
 
 # 🏆 Awards & Honors
