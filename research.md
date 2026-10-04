@@ -84,6 +84,9 @@ I approach waste valorization as a **chemical engineering problem rooted in mole
 ---
 
 ## 🤝 Collaboration Interests
+### Research Collaboration & Funding
+
+My doctoral research was supported by funding from **Idaho National Laboratory (INL)** and included research collaborations with scientists and researchers at **Michigan Technological University** and the **University of Wisconsin–Madison**. These collaborations provided opportunities to work across institutional and disciplinary boundaries, contributing to research at the intersection of sustainable materials, waste valorization, chemical conversion, and advanced materials characterization. This experience strengthened my ability to work in collaborative research environments and connect fundamental chemical research with broader energy, materials, and sustainability challenges.
 
 I welcome collaborations in:
 
