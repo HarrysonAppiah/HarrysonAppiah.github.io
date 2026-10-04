@@ -14,9 +14,10 @@ A selection of academic and research recognitions received during my graduate st
 ### Outstanding Graduate Student Award  
 **University of Idaho** — 2026
 
+<img class="award-photo" src="{{ '/assets/Awards/h10.jpeg' | relative_url }}" alt="Outstanding Graduate Student Award">
+
 Recognized as the Outstanding Graduate Student for academic excellence, research productivity, and contributions to the graduate community in Environmental Science (Material Chemistry).
 </div>
-<img class="award-photo" src="{{ '/assets/Awards/h10.jpeg' | relative_url }}" alt="Environmental Science Research Excellence Award">
 
 ---
 
@@ -53,7 +54,7 @@ Research activities have been supported through collaboration with the **Idaho N
 <style>
 .award-photo {
   float: left;
-  width: 180px;
+  width: 220px;          /* increased from 180px */
   height: auto;
   object-fit: cover;
   border-radius: 8px;
