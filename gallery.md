@@ -61,7 +61,7 @@ permalink: /lab/
 
   <!-- Image 6 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/lab6.jpeg' | relative_url }}" alt="Laboratory Research Environment" onclick="openLightbox(this)">
+    <img src="{{ '/assets/lab/h6.jpeg' | relative_url }}" alt="Laboratory Research Environment" onclick="openLightbox(this)">
     <div class="lab-caption">
       <h3>The Lab and Research in a nutshell</h3>
       <p>Day-to-day experimental work in the Renewable Materials Laboratory at the University of Idaho.</p>
