@@ -34,8 +34,7 @@ Awarded for research excellence in Environmental Science. The recognition highli
 Recognized in the category of Materials Characterization for research contributions related to the structural, thermal, and chemical characterization of waste-derived and bio-based materials.
 
 - Category: Materials Characterization  
-- [Award Profile]([https://metallurgyaward.com/harrison-appiah-materials-characterization-best-researcher-award-11606/)
-](https://metallurgyaward.com/award-winners/?gv_id=&gv_search=harrison+appiah&mode=any#gv-view-2969-1)
+- [Award Profile](https://metallurgyaward.com/award-winners/?gv_id=&gv_search=harrison+appiah&mode=any#gv-view-2969-1/)
 ---
 
 ### Additional Recognition
