@@ -34,7 +34,7 @@ permalink: /lab/
 
   <!-- Image 3 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/h3.jpg' | relative_url }}" alt="some reflections" onclick="openLightbox(this)">
+    <img src="{{ '/assets/lab/h3.jpeg' | relative_url }}" alt="some reflections" onclick="openLightbox(this)">
     <div class="lab-caption">
       <h3>The final caption</h3>
       <p>My research group.</p>
