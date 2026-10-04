@@ -40,3 +40,35 @@ Recognized in the category of Materials Characterization for research contributi
 ### Additional Recognition
 
 Research activities have been supported through collaboration with the **Idaho National Laboratory** and joint work with researchers from **Michigan Technological University** and the **University of Wisconsin–Madison**.
+
+
+
+
+
+<style>
+.award-photo {
+  float: left;
+  width: 180px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 0 1.5rem 1rem 0;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+/* Clear the float after each award section */
+.award-section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media (max-width: 600px) {
+  .award-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1.2rem;
+    width: 200px;
+  }
+}
+</style>
