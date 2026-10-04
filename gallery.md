@@ -16,7 +16,7 @@ permalink: /lab/
 
   <!-- Image 1 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/lab1.jpg' | relative_url }}" alt="Description of image 1">
+    <img src="{{ '/assets/lab/h1.jpg' | relative_url }}" alt="Description of image 1">
     <div class="lab-caption">
       <h3>Solvent-based Plastic Recovery</h3>
       <p>Processing municipal solid waste streams to extract and recover post-consumer plastics using solvent-targeted methods.</p>
