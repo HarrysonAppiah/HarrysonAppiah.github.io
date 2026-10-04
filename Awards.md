@@ -16,6 +16,7 @@ A selection of academic and research recognitions received during my graduate st
 
 Recognized as the Outstanding Graduate Student for academic excellence, research productivity, and contributions to the graduate community in Environmental Science (Material Chemistry).
 </div>
+<img class="award-photo" src="{{ '/assets/Awards/h10.jpeg' | relative_url }}" alt="Environmental Science Research Excellence Award">
 
 ---
 
@@ -23,7 +24,7 @@ Recognized as the Outstanding Graduate Student for academic excellence, research
 ### Environmental Science Research Excellence Award  
 **International Innovator Awards** — 2026
 
-<img class="award-photo" src="{{ '/assets/Awards/h10.jpeg' | relative_url }}" alt="Environmental Science Research Excellence Award">
+
 
 Awarded for research excellence in Environmental Science. The recognition highlights scholarly contributions in the areas of waste valorization, renewable materials, and sustainable chemical processes conducted at the Renewable Materials Laboratory, University of Idaho.
 
