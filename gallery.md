@@ -16,7 +16,7 @@ permalink: /lab/
 
   <!-- Image 1 -->
   <div class="lab-item">
-    <img src="{{ '/assets/lab/h1.jpg' | relative_url }}" alt="Description of image 1">
+    <img src="{{ '/assets/lab/h1.jpeg' | relative_url }}" alt="Solvent-based Plastic Recovery">
     <div class="lab-caption">
       <h3>Solvent-based Plastic Recovery</h3>
       <p>Processing municipal solid waste streams to extract and recover post-consumer plastics using solvent-targeted methods.</p>
@@ -34,7 +34,7 @@ permalink: /lab/
 
   <!-- Image 3 -->
   <div class="lab-item">
-   <img src="{{ '/assets/lab/h3.jpeg' | relative_url }}" alt="Solvent-based Plastic Recovery">
+   <img src="{{ '/assets/lab/h3.jpeg' | relative_url }}" alt="polymer processing">
     <div class="lab-caption">
       <h3>Deep Eutectic Solvent Synthesis</h3>
       <p>Preparation and evaluation of deep eutectic solvents for xylan-to-furfural conversion.</p>
