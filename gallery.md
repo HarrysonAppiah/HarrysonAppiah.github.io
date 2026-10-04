@@ -37,7 +37,7 @@ permalink: /lab/
    <img src="{{ '/assets/lab/h3.jpeg' | relative_url }}" alt="polymer processing">
     <div class="lab-caption">
       <h3>Deep Eutectic Solvent Synthesis</h3>
-      <p>Preparation and evaluation of deep eutectic solvents for xylan-to-furfural conversion.</p>
+      <p> Melt extrusion and cast-film processing of waste-derived and bio-based polymer systems.</p>
     </div>
   </div>
 
