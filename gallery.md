@@ -68,6 +68,15 @@ permalink: /lab/
     </div>
   </div>
 
+  <!-- Image 7 -->
+<div class="lab-item">
+  <img src="{{ '/assets/lab/h7.jpeg' | relative_url }}" alt="Lab success moment" onclick="openLightbox(6)">
+  <div class="lab-caption">
+    <h3>When the experiment works</h3>
+    <p>Celebrating a successful run in the Renewable Materials Lab — solvent recovery and condensation setup in action.</p>
+  </div>
+</div>
+
 </div>
 
 <!-- Lightbox -->
