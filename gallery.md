@@ -128,7 +128,7 @@ permalink: /lab/
 .lab-caption h3 {
   margin: 0 0 0.35rem;
   font-size: 1.08rem;
-  color: inherit;
+  color: #111111;              /* dark by default */
   font-weight: 600;
 }
 
@@ -136,7 +136,18 @@ permalink: /lab/
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.45;
-  color: inherit;
+  color: #222222;              /* dark by default */
+}
+
+/* Make captions light when dark mode is active */
+html.dark-mode .lab-caption h3,
+html.dark-mode .lab-caption p {
+  color: #e2e8f0 !important;
+}
+
+html.dark-mode .lab-item {
+  background: #1e1e1e !important;
+}
 }
 
 /* Lightbox */
