@@ -80,7 +80,7 @@ permalink: /lab/
   max-width: 780px;
   margin: 0 auto 2.5rem;
   text-align: center;
-  color: #000;
+  color: inherit;
   font-size: 1.05rem;
   line-height: 1.6;
 }
@@ -110,7 +110,7 @@ permalink: /lab/
 
 .lab-item img {
   width: 100%;
-  height: 260px;               /* taller image area */
+  height: 260px;
   object-fit: cover;
   display: block;
   cursor: pointer;
@@ -122,13 +122,13 @@ permalink: /lab/
 }
 
 .lab-caption {
-  padding: 0.9rem 1.2rem 1.1rem;  /* more compact */
+  padding: 0.9rem 1.2rem 1.1rem;
 }
 
 .lab-caption h3 {
   margin: 0 0 0.35rem;
   font-size: 1.08rem;
-  color: #111;
+  color: inherit;
   font-weight: 600;
 }
 
@@ -136,7 +136,7 @@ permalink: /lab/
   margin: 0;
   font-size: 0.9rem;
   line-height: 1.45;
-  color: #000;
+  color: inherit;
 }
 
 /* Lightbox */
