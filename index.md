@@ -62,25 +62,33 @@ title: Home
   margin: 0 0 1.2rem;
 }
 
+.about-wrapper h1 {
+  margin: 0 0 0.25rem;
+  font-size: 1.9rem;
+  font-weight: 700;
+  color: inherit;          /* uses the same color as other pages */
+  line-height: 1.25;
+}
+
+.about-role {
+  font-size: 0.95rem;
+  color: inherit;
+  opacity: 0.85;
+  margin: 0 0 1.2rem;
+}
+
 .about-wrapper p {
   font-size: 1.05rem;
   line-height: 1.7;
-  color: #222222;
+  color: inherit;          /* uses the same color as other pages */
   margin-bottom: 1.1rem;
-}
-
-.about-links {
-  margin-top: 1.6rem;
-  clear: both;
-  display: flex;
-  gap: 1.4rem;
 }
 
 .about-links a {
   font-size: 0.95rem;
   font-weight: 600;
   text-decoration: none;
-  color: #1a56db;
+  color: inherit;
   border-bottom: 2px solid transparent;
   padding-bottom: 2px;
 }
