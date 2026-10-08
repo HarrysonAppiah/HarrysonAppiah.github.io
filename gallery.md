@@ -232,13 +232,14 @@ html.dark-mode .lab-item {
 
 <script>
   const galleryImages = [
-    "{{ '/assets/lab/h1.jpeg' | relative_url }}",
-    "{{ '/assets/lab/h2.jpeg' | relative_url }}",
-    "{{ '/assets/lab/h3.jpeg' | relative_url }}",
-    "{{ '/assets/lab/h4.jpeg' | relative_url }}",
-    "{{ '/assets/lab/h5.jpeg' | relative_url }}",
-    "{{ '/assets/lab/h6.jpeg' | relative_url }}"
-  ];
+  "{{ '/assets/lab/h1.jpeg' | relative_url }}",
+  "{{ '/assets/lab/h2.jpeg' | relative_url }}",
+  "{{ '/assets/lab/h3.jpeg' | relative_url }}",
+  "{{ '/assets/lab/h4.jpeg' | relative_url }}",
+  "{{ '/assets/lab/h5.jpeg' | relative_url }}",
+  "{{ '/assets/lab/h6.jpeg' | relative_url }}",
+  "{{ '/assets/lab/h7.jpeg' | relative_url }}"
+];
 
   let currentIndex = 0;
 
