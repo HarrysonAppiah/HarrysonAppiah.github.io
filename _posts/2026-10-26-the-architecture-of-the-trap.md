@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Architecture of the Trap"
-date: 2026-10-26
+date: 2026-10-23
 categories: [Monday Musings]
 permalink: /monday-musings/architecture-of-the-trap/
 ---
