@@ -7,13 +7,13 @@ tags: [work, cost of living, education, society, philosophy]
 excerpt: "How many roads must we walk before the promise of a decent life stops moving?"
 ---
 
-*How many roads must we walk before the promise of a decent life stops moving?*
+How many roads must we walk before the promise of a decent life stops moving?
 
 There is a particular kind of exhaustion that comes from doing everything right and still arriving too late.
 
 You study because education promises opportunity. You work because hard work promises stability. You save because tomorrow is supposed to reward discipline. You sacrifice the present because the future is said to be waiting with open doors.
 
-Then you arrive at the door.
+*Then you arrive at the door.*
 
 The house costs more than you can afford. The interest takes its share of the years ahead. Groceries have quietly become a luxury of arithmetic. Jobs demand experience while offering fewer openings. And the salary that once represented progress now struggles to keep pace with survival.
 
