@@ -3,7 +3,7 @@ categories:
 - Monday Musings
 date: 2026-11-08
 layout: post
-title: Monday Musings \| How Can We Win?
+title: How Can We Win?
 ---
 
 *"The borrower is servant to the lender." --- Proverbs 22:7*
