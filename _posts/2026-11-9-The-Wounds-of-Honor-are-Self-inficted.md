@@ -6,7 +6,6 @@ categories: [Monday Musings, Reflection]
 tags: [work, cost of living, education, society, philosophy]
 excerpt: "The Cost of Convenient Silence"
 ---
----
 layout: post
 title: "Monday Musings - The Wounds of Honor Are Self-Inflicted"
 date: 2026-11-09
