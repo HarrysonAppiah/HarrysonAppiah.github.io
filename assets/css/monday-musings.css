@@ -80,3 +80,126 @@
         font-size: 12px;
     }
 }
+/* ==========================================
+   MONDAY MUSINGS - ARTICLE FORMATTING
+   Match the Research page layout and style
+   ========================================== */
+
+/* Article container and margins */
+.post-article {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto 50px auto;
+    padding: 25px 30px 50px;
+    box-sizing: border-box;
+}
+
+/* Post date and metadata */
+.post-meta-wrapper {
+    width: 100%;
+    margin: 0 auto 25px auto;
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+/* Article content */
+.post-body {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    letter-spacing: normal;
+}
+
+/* Paragraph spacing */
+.post-body p {
+    margin-top: 0;
+    margin-bottom: 1.2em;
+    line-height: inherit;
+}
+
+/* Main headings */
+.post-body h2 {
+    font-family: inherit;
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-top: 2em;
+    margin-bottom: 0.8em;
+}
+
+/* Subheadings */
+.post-body h3 {
+    font-family: inherit;
+    font-size: 1.2em;
+    font-weight: 600;
+    margin-top: 1.6em;
+    margin-bottom: 0.7em;
+}
+
+/* Lists */
+.post-body ul,
+.post-body ol {
+    margin: 1em 0 1.5em 1.5em;
+    padding-left: 1em;
+}
+
+.post-body li {
+    margin-bottom: 0.5em;
+    line-height: inherit;
+}
+
+/* Quotations */
+.post-body blockquote {
+    margin: 1.5em 0;
+    padding: 0.8em 1.2em;
+    border-left: 3px solid #b59b70;
+    font-style: italic;
+}
+
+/* Section dividers */
+.post-body hr {
+    margin: 2.5em 0;
+    border: 0;
+    border-top: 1px solid rgba(128, 128, 128, 0.3);
+}
+
+/* Images inside articles */
+.post-body img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 2em auto;
+}
+
+/* Comments */
+.post-comments {
+    width: 100%;
+    margin: 3em auto 0;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 600px) {
+    .post-article {
+        padding: 15px 18px 35px;
+    }
+
+    .post-meta-wrapper {
+        margin-bottom: 20px;
+    }
+
+    .post-body h2 {
+        font-size: 1.35em;
+    }
+
+    .post-body h3 {
+        font-size: 1.15em;
+    }
+
+    .post-body ul,
+    .post-body ol {
+        padding-left: 0.8em;
+    }
+}
