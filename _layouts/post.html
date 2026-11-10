@@ -1,13 +1,14 @@
 
+---
+layout: default
+---
 
-<!-- Monday Musings banner stylesheet -->
 <link rel="stylesheet"
       href="{{ '/assets/css/monday-musings.css' | relative_url }}">
 
-<!-- Permanent Monday Musings banner -->
 {% include monday-musings-banner.html %}
 
-<article>
+<article class="post-article">
 
   {% if page.image %}
     <div class="post-image">
@@ -15,22 +16,38 @@
     </div>
   {% endif %}
 
-  {% include meta.html post=page %}
-  {{ content }}
+  <div class="post-meta-wrapper">
+    {% include meta.html post=page %}
+  </div>
+
+  <div class="post-body">
+    {{ content }}
+  </div>
 
   {% if site.comments.isso_domain or site.comments.disqus_shortname %}
-    <hr>
-    {% if site.comments.isso_domain %}<div id="isso-thread"></div>{% endif %}
-    {% if site.comments.disqus_shortname %}<div id="disqus_thread"></div>{% endif %}
-    <noscript>Please enable JavaScript to view comments.</noscript>
+    <div class="post-comments">
+      <hr>
+      {% if site.comments.isso_domain %}
+        <div id="isso-thread"></div>
+      {% endif %}
+      {% if site.comments.disqus_shortname %}
+        <div id="disqus_thread"></div>
+      {% endif %}
+      <noscript>Please enable JavaScript to view comments.</noscript>
+    </div>
   {% endif %}
+
 </article>
 
 {% unless site.show_minimal or site.footer %}
 {% if page.next.url or page.previous.url %}
 <footer class="nowrap {% if site.show_frame %}dark{% else %}smooth{% endif %}">
-  {% if page.next.url %}<a href="{{ page.next.url | relative_url }}">« {{ page.next.title }}</a> {% endif %}
-  {% if page.previous.url %} <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }} »</a>{% endif %}
+  {% if page.next.url %}
+    <a href="{{ page.next.url | relative_url }}">« {{ page.next.title }}</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }} »</a>
+  {% endif %}
 </footer>
 {% endif %}
 {% endunless %}
