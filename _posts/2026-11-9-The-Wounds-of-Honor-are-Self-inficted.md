@@ -7,8 +7,6 @@ tags: [work, cost of living, education, society, philosophy]
 excerpt: "The Cost of Convenient Silence"
 ---
 
-# Monday Musings | The Wounds of Honor Are Self-Inflicted
-
 *Sometimes, the greatest betrayal of our principles is not what we do, but what we allow.*
 
 I was watching the movie *Last Knights* when, approximately 26 minutes into the film, a scene caught my attention.
