@@ -1,205 +1,131 @@
-/* =================================
-   MONDAY MUSINGS - BLOG BANNER
-   ================================= */
 
-.monday-musings-banner {
-    position: relative;
-    width: 100%;
-    height: 350px;
-    overflow: hidden;
-    margin: 0 0 35px 0;
-    background: #eee2ca;
-    border-radius: 5px;
-}
-
-.monday-musings-banner-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 55%;
-    display: block;
-}
-
-.monday-musings-banner-overlay {
-    position: absolute;
-    top: 50%;
-    left: 6%;
-    transform: translateY(-50%);
-    max-width: 500px;
-    color: #39352e;
-}
-
-.monday-musings-eyebrow {
-    font-family: Arial, sans-serif;
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 4px;
-    margin-bottom: 15px;
-    color: #75664f;
-}
-
-.monday-musings-banner-overlay h1 {
-    font-family: Georgia, serif;
-    font-size: clamp(28px, 4vw, 48px);
-    font-weight: normal;
-    letter-spacing: 3px;
-    color: #39352e;
-    margin-bottom: 12px;
-}
-
-.monday-musings-tagline {
-    font-family: Georgia, serif;
-    font-size: 15px;
-    line-height: 1.7;
-    color: #514a3e;
-}
-
-/* Mobile responsiveness */
-
-@media screen and (max-width: 600px) {
-
-    .monday-musings-banner {
-        height: 240px;
-    }
-
-    .monday-musings-banner-overlay {
-        left: 5%;
-        right: 5%;
-    }
-
-    .monday-musings-eyebrow {
-        font-size: 9px;
-        letter-spacing: 2px;
-    }
-
-    .monday-musings-banner-overlay h1 {
-        font-size: 27px;
-    }
-
-    .monday-musings-tagline {
-        font-size: 12px;
-    }
-}
 /* ==========================================
-   MONDAY MUSINGS - ARTICLE FORMATTING
-   Match the Research page layout and style
+   MONDAY MUSINGS - LANDING PAGE STYLE
    ========================================== */
 
-/* Article container and margins */
 .post-article {
     max-width: 900px;
     width: 100%;
-    margin: 0 auto 50px auto;
-    padding: 25px 30px 50px;
+    margin: 2rem auto 3rem;
+    padding: 0;
     box-sizing: border-box;
+    color: inherit;
+    background: transparent;
 }
 
-/* Post date and metadata */
+/* Post metadata */
 .post-meta-wrapper {
-    width: 100%;
-    margin: 0 auto 25px auto;
-    padding-bottom: 15px;
+    margin: 0 auto 1.5rem;
+    padding-bottom: 1rem;
     border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+    color: inherit;
 }
 
-/* Article content */
+/* Article body */
 .post-body {
     width: 100%;
     max-width: 100%;
-    margin: 0 auto;
     font-family: inherit;
-    font-size: inherit;
-    line-height: inherit;
+    font-size: 1.05rem;
+    font-weight: inherit;
+    line-height: 1.7;
     letter-spacing: normal;
+    color: inherit;
+    background: transparent;
 }
 
-/* Paragraph spacing */
+/* Paragraphs */
 .post-body p {
-    margin-top: 0;
-    margin-bottom: 1.2em;
-    line-height: inherit;
+    font-family: inherit;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: inherit;
+    margin: 0 0 1.1rem;
 }
 
-/* Main headings */
+/* Headings */
+.post-body h1,
+.post-body h2,
+.post-body h3,
+.post-body h4 {
+    font-family: inherit;
+    color: inherit;
+    line-height: 1.3;
+    font-weight: 700;
+}
+
 .post-body h2 {
-    font-family: inherit;
-    font-size: 1.5em;
-    font-weight: 600;
-    line-height: 1.4;
-    margin-top: 2em;
-    margin-bottom: 0.8em;
+    font-size: 1.5rem;
+    margin: 2rem 0 0.9rem;
 }
 
-/* Subheadings */
 .post-body h3 {
-    font-family: inherit;
-    font-size: 1.2em;
-    font-weight: 600;
-    margin-top: 1.6em;
-    margin-bottom: 0.7em;
+    font-size: 1.2rem;
+    margin: 1.6rem 0 0.7rem;
 }
 
 /* Lists */
 .post-body ul,
 .post-body ol {
-    margin: 1em 0 1.5em 1.5em;
-    padding-left: 1em;
+    margin: 1rem 0 1.5rem 1.5rem;
+    padding-left: 1rem;
 }
 
 .post-body li {
-    margin-bottom: 0.5em;
-    line-height: inherit;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    margin-bottom: 0.5rem;
 }
 
 /* Quotations */
 .post-body blockquote {
-    margin: 1.5em 0;
-    padding: 0.8em 1.2em;
-    border-left: 3px solid #b59b70;
-    font-style: italic;
+    margin: 1.5rem 0;
+    padding: 0.5rem 1.2rem;
+    border-left: 3px solid #888;
+    color: inherit;
+    background: transparent;
 }
 
-/* Section dividers */
+/* Dividers */
 .post-body hr {
-    margin: 2.5em 0;
+    margin: 2rem 0;
     border: 0;
     border-top: 1px solid rgba(128, 128, 128, 0.3);
 }
 
-/* Images inside articles */
+/* Article images */
 .post-body img {
+    display: block;
     max-width: 100%;
     height: auto;
-    display: block;
-    margin: 2em auto;
+    margin: 2rem auto;
 }
 
 /* Comments */
 .post-comments {
-    width: 100%;
-    margin: 3em auto 0;
+    margin: 3rem auto 0;
+    color: inherit;
 }
 
-/* Mobile layout */
-@media screen and (max-width: 600px) {
+/* Mobile */
+@media screen and (max-width: 650px) {
     .post-article {
-        padding: 15px 18px 35px;
+        margin: 1.5rem auto 2rem;
+        padding: 0 5px;
     }
 
-    .post-meta-wrapper {
-        margin-bottom: 20px;
+    .post-body,
+    .post-body p,
+    .post-body li {
+        font-size: 1rem;
+        line-height: 1.7;
     }
 
     .post-body h2 {
-        font-size: 1.35em;
+        font-size: 1.35rem;
     }
 
     .post-body h3 {
-        font-size: 1.15em;
-    }
-
-    .post-body ul,
-    .post-body ol {
-        padding-left: 0.8em;
+        font-size: 1.15rem;
     }
 }
