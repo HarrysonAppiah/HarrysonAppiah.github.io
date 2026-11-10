@@ -3,7 +3,7 @@ layout: post
 title: "Monday Musings | The Wounds of Honor are Self-inflicted"
 date: 2026-11-9
 categories: [Monday Musings, Reflection]
-tags: [work, cost of living, education, society, philosophy]
+tags: [work, cost of silence, education, society, philosophy]
 excerpt: "The Cost of Convenient Silence"
 ---
 
