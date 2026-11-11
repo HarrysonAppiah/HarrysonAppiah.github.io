@@ -271,3 +271,123 @@ html.dark-mode .post-body blockquote {
         display: none;
     }
 }
+
+
+
+
+
+
+/* =================================
+   MONDAY MUSINGS LEFT SIDEBAR
+================================= */
+
+.blog-page header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 190px;
+    height: 100vh;
+    box-sizing: border-box;
+    padding: 25px 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    background: #232533;
+    z-index: 1000;
+}
+
+.blog-page header h1 {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.blog-page header nav {
+    width: 100%;
+}
+
+.blog-page header nav ul {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.blog-page header nav li {
+    width: 100%;
+    margin: 0;
+}
+
+.blog-page header nav a {
+    display: block;
+    padding: 10px 8px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+.blog-page header nav a:hover {
+    background: rgba(255,255,255,0.12);
+    color: #ffffff;
+}
+
+/* Shift blog content to the right of the sidebar */
+
+.blog-page .site-content {
+    margin-left: 190px;
+    width: calc(100% - 190px);
+    box-sizing: border-box;
+}
+
+/* =================================
+   PREVIOUS / NEXT POST NAVIGATION
+================================= */
+
+.blog-page .post-navigation {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    margin: 35px 0 25px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+}
+
+.blog-page .post-navigation a {
+    color: #c62828 !important;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.blog-page .post-navigation a:hover {
+    color: #8b0000 !important;
+    text-decoration: underline;
+}
+
+/* Mobile layout */
+
+@media (max-width: 700px) {
+    .blog-page header {
+        position: relative;
+        width: 100%;
+        height: auto;
+        padding: 12px;
+    }
+
+    .blog-page header nav ul {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+
+    .blog-page header nav a {
+        font-size: 13px;
+        padding: 7px;
+    }
+
+    .blog-page .site-content {
+        margin-left: 0;
+        width: 100%;
