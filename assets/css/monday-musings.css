@@ -7,7 +7,7 @@
 .monday-musings-banner {
     position: relative;
     width: calc(100% - 32px);
-    max-width: 900px;
+    max-width: 1000px;
     aspect-ratio: 1456 / 816;
     height: auto;
     margin: 1.5rem auto 2rem;
