@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What If the World Is a Stage?"
-date: 2026-11-23
+date: 2026-11-21
 categories: [Monday Musings]
 ---
 
